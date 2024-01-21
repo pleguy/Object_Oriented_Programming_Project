@@ -3,6 +3,7 @@ from music.music import Music
 from movie.movie import Movie
 from cart_list.cart import Cart
 from Users.authenticate import authenticate_user
+from Users.user import User
 
 
 def admin_menu(admin):
